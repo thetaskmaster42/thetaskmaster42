@@ -8,13 +8,11 @@
 ## 🚀 Technologies & Tools
 
 - **Languages:** Python(primary), SQL, Bash, C++
-- **Frameworks & Libraries:** FastAPI, PySpark, Pydantic, Docker
-- **Data Warehouse:** Open Lakehouses, Databricks, Snowflake
-- **Version Control:** Git, Bitbucket
-- **Cloud Platforms:** AWS, GCP, Azure Databricks
-- **Database:** PostGRE, MySQL, MongoDB
-- **Distributed Systems:** Hadoop, Hive, Presto, Apache Kafka, Apache Flink, Apache Spark, Dremio, Trino
+- **Ops:** Kubernetes, GitOps, Prometheus, Grafana, Docker, Git, Terraform.
+- **Cloud Platforms:** AWS, GCP
+- **Distributed Systems:** Hadoop, Hive, Presto, Apache Kafka, Apache Flink, Apache Spark, Dremio, Trino. 
 - **System Design:** Event-driven architectures, modular deployment, API-first design
+- **Philosophy:** DevOps, SRE, Data Engineering, Platform Engineering
 
 
 ## 📫 Reachout to me at
