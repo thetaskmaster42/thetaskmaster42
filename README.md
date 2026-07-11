@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Rohin!
 
 ## Welcome my profile
-🚀 A data engineering and analytics professional with a strong foundation in data architecture, data modeling, system design, machine learning and deep learning, currently focused on unlocking the potential of Generative AI, Agentic systems and expanding that toolkit to build intelligent, autonomous solutions with GenAI.
+🚀 A data engineering and analytics professional with a strong foundation in data architecture, data modeling, system design, machine learning and deep learning, currently focused on unlocking the potential of Generative AI, Agentic systems and expanding that toolkit to build intelligent, autonomous solutions with Agentic AI.
 
 ---
 
